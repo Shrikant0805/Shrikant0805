@@ -40,8 +40,6 @@ I’m a passionate developer with a strong interest in software development, dat
 
 ---
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=ashish-dhakane&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
